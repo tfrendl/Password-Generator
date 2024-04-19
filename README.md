@@ -9,7 +9,7 @@ This program is designed to generate complicated passwords. Users have control o
 ### Executing program
 * Download and install Python
 * Download the `main.py` file
-* Navigate to the folder containing `main.py`
+* Using terminal, navigate to the folder containing `main.py`
 * Run the program using the following command `python3 main.py`
 ## Author
 
