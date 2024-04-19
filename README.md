@@ -4,7 +4,7 @@ This program generates passwords based on user specifications.
 
 ## Description
 
-This program is designed to generate complicated passwords. Users have control over the length of a password and if there will be special characters, uppercase/lowercase letters, and/or numbers. This is important as interfaces have different password requirements. There are checks to ensure that users enter the correct responses to prompts.
+This program is designed to generate complicated passwords. Users have control over the length of a password and if there will be special characters, uppercase/lowercase letters, and/or numbers. This is important as platforms have different password requirements. There are checks to ensure that users enter the correct responses to prompts.
 
 ### Executing program
 * Download and install Python
