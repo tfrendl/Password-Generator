@@ -60,6 +60,7 @@ while do_again == 'y':
     generate_password(num_chars, include_special, include_nums, include_upper, include_lower)
 
     do_again = tests_user_input('Would you like to generate another password? (y/n): ')
+    print()
 
 print('Thank you for using the password generator!')
 
